@@ -1,0 +1,256 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573242264795@s.whatsapp.net',
+    fromMe: false,
+    id: 'A1E6893A300484C3BFFE13EE0EAAB3CC',
+    participant: undefined
+  },
+  messageTimestamp: 1715796625,
+  pushName: 'CompuServices Soft',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CompuServices Soft',
+  body: 'Hola',
+  from: '573242264795'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9fa8a155-46d5-4db1-8215-a2b8bf3496a5',
+  keyword: 'key_0da0d74d-4588-4a6d-928c-76a696b99413',
+  answer: '🙌 Hola bienvenido a Monaco Shoes  🤩👟',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '45baa05a9290768f10b478d311f969d5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b69f715d-fe1f-4f8a-8a8b-6a4930e893ec',
+  keyword: 'ans_9fa8a155-46d5-4db1-8215-a2b8bf3496a5',
+  answer: '👉 1. Conocer más sobre nuestra empresa\n' +
+    '👉 2. Revisar el catálogo de productos\n' +
+    '👉 3. Visitar nuestra página web\n' +
+    '👉 4. Promociones\n' +
+    '👉 5. Hablar con un Asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9628a3274f8f163aa22de72f213db006'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573242264795@s.whatsapp.net',
+    fromMe: false,
+    id: '94BF4E7F155853B42317D4CB0F4426D5',
+    participant: undefined
+  },
+  messageTimestamp: 1715796628,
+  pushName: 'CompuServices Soft',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CompuServices Soft',
+  body: '2',
+  from: '573242264795'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c08e8847-96ee-4743-be2f-43d6b4b44f5a',
+  keyword: 'key_a4a22339-f130-44ed-83cc-129d596f93d6',
+  answer: '🚀 Bienvenido, anexaremos los siguientes catálogos en pdf para que los revises. ¿Qué te gustaría hacer a continuación?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c4f5f2d637a73b88836fb6b385820624'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c8220cd5-a417-48b3-9946-de972614ea34',
+  keyword: 'ans_c08e8847-96ee-4743-be2f-43d6b4b44f5a',
+  answer: '🔍 Ver Catálogo: [https://tu-sitio-web.com/catalogo](https://tu-sitio-web.com/catalogo)\n' +
+    '📞 Contactar: [https://wa.me/tu-numero-de-whatsapp](https://wa.me/tu-numero-de-whatsapp)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f4e913edf2465f06e5eab08d271de5f7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573242264795@s.whatsapp.net',
+    fromMe: false,
+    id: 'EC1BF467D6779B301F703911620BF496',
+    participant: undefined
+  },
+  messageTimestamp: 1715796662,
+  pushName: 'CompuServices Soft',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CompuServices Soft',
+  body: 'Hola',
+  from: '573242264795'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9fa8a155-46d5-4db1-8215-a2b8bf3496a5',
+  keyword: 'key_0da0d74d-4588-4a6d-928c-76a696b99413',
+  answer: '🙌 Hola bienvenido a Monaco Shoes  🤩👟',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '45baa05a9290768f10b478d311f969d5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b69f715d-fe1f-4f8a-8a8b-6a4930e893ec',
+  keyword: 'ans_9fa8a155-46d5-4db1-8215-a2b8bf3496a5',
+  answer: '👉 1. Conocer más sobre nuestra empresa\n' +
+    '👉 2. Revisar el catálogo de productos\n' +
+    '👉 3. Visitar nuestra página web\n' +
+    '👉 4. Promociones\n' +
+    '👉 5. Hablar con un Asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9628a3274f8f163aa22de72f213db006'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573242264795@s.whatsapp.net',
+    fromMe: false,
+    id: '35C271CF092A98889901EB9B8EECA8FF',
+    participant: undefined
+  },
+  messageTimestamp: 1715796664,
+  pushName: 'CompuServices Soft',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CompuServices Soft',
+  body: '4',
+  from: '573242264795'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_96b14da3-c52c-42d4-addd-5f1eb22392f6',
+  keyword: 'key_bfc79628-f6d0-406d-af30-731115749ffb',
+  answer: 'Estos son los modelos',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '68635035d38253b5e104e1dcce2ae1df'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573242264795@s.whatsapp.net',
+    fromMe: false,
+    id: '48799FBA39A265E750C3648B51A1F7E5',
+    participant: undefined
+  },
+  messageTimestamp: 1715796669,
+  pushName: 'CompuServices Soft',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CompuServices Soft',
+  body: '4',
+  from: '573242264795'
+}
